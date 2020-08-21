@@ -16,7 +16,10 @@ The predicted output is then analyzed and converted to a user friendly language.
 - **Display the Output:**
 The analyzed result is then displayed to the user.
 
-![](https://github.com/tushar385/Malaria-Detection-using-CNN/blob/master/Screenshot/Infected/C39P4thinF_original_IMG_20150622_105554_cell_11.png)     ![](https://github.com/tushar385/Malaria-Detection-using-CNN/blob/master/Screenshot/Infected/C39P4thinF_original_IMG_20150622_105554_cell_13.png)     ![](https://github.com/tushar385/Malaria-Detection-using-CNN/blob/master/Screenshot/Infected/C39P4thinF_original_IMG_20150622_105554_cell_26.png)
+## Infected Sample
+
+![](https://github.com/tushar385/Malaria-Detection-using-CNN/blob/master/Screenshot/Infected/C39P4thinF_original_IMG_20150622_105554_cell_11.png)
+![](https://github.com/tushar385/Malaria-Detection-using-CNN/blob/master/Screenshot/Infected/C39P4thinF_original_IMG_20150622_105554_cell_13.png)     ![](https://github.com/tushar385/Malaria-Detection-using-CNN/blob/master/Screenshot/Infected/C39P4thinF_original_IMG_20150622_105554_cell_26.png)
 
 ## Technology Used
 
