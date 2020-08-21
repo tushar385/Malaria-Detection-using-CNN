@@ -16,6 +16,11 @@ The predicted output is then analyzed and converted to a user friendly language.
 - **Display the Output:**
 The analyzed result is then displayed to the user.
 
+## Content Inside Dataset.zip
+
+1. Train Folder---> Parasite
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Test Folder
+
 ## Random Examples of Infected Sample
 
 ![](https://github.com/tushar385/Malaria-Detection-using-CNN/blob/master/Screenshot/Infected/C39P4thinF_original_IMG_20150622_105554_cell_11.png)
