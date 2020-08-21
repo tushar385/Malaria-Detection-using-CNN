@@ -19,11 +19,11 @@ The analyzed result is then displayed to the user.
 ## Content Inside Dataset.zip
 
 1. Train Folder  
-&nbsp;&nbsp;&nbsp;&nbsp; Parasite Folder 
+&nbsp;&nbsp;&nbsp;&nbsp; Parasite Folder  
 &nbsp;&nbsp;&nbsp;&nbsp; Uninfected Folder
 
 2. Test Folder  
-&nbsp;&nbsp;&nbsp;&nbsp; Parasite Folder 
+&nbsp;&nbsp;&nbsp;&nbsp; Parasite Folder  
 &nbsp;&nbsp;&nbsp;&nbsp; Uninfected Folder
 
 
