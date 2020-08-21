@@ -19,12 +19,12 @@ The analyzed result is then displayed to the user.
 ## Content Inside Dataset.zip
 
 1. Train Folder  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parasite  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uninfected
+&nbsp;&nbsp;&nbsp;&nbsp; Parasite Folder 
+&nbsp;&nbsp;&nbsp;&nbsp; Uninfected Folder
 
 2. Test Folder  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parasite  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uninfected
+&nbsp;&nbsp;&nbsp;&nbsp; Parasite Folder 
+&nbsp;&nbsp;&nbsp;&nbsp; Uninfected Folder
 
 
 ## Random Examples of Infected Sample
@@ -43,5 +43,5 @@ The analyzed result is then displayed to the user.
 
 1. Python
 2. VGG19
-3. ImageDataGenerator
-4. Numpy
+3. Numpy  
+4. ImageDataGenerator
