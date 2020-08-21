@@ -18,8 +18,14 @@ The analyzed result is then displayed to the user.
 
 ## Content Inside Dataset.zip
 
-1. Train Folder---> Parasite
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Test Folder
+1. Train Folder  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parasite  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uninfected
+
+2. Test Folder  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parasite  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uninfected
+
 
 ## Random Examples of Infected Sample
 
