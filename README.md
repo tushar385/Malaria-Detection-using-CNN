@@ -15,3 +15,10 @@ After uploading the medical test image and output are predicted using the saved 
 The predicted output is then analyzed and converted to a user friendly language.
 - **Display the Output:**
 The analyzed result is then displayed to the user.
+
+## Technology Used
+
+1. Python
+2. VGG19
+3. ImageDataGenerator
+4. Numpy
