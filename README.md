@@ -10,7 +10,7 @@ The image will be scanned before augmentation takes place.
 - **Transform Image:**
 The scanned image is then transformed into a format that is needed by the saved custom model.
 - **Evaluate image using saved model:**
-The saved custom model creates a feature map of the uploaded medical test image and predicts the output.
+After uploading the medical test image and output are predicted using the saved model.
 - **Determine and Analyze the Output:**
 The predicted output is then analyzed and converted to a user friendly language.
 - **Display the Output:**
